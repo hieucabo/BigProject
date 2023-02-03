@@ -12,3 +12,4 @@ Now, let's have a look at my work.
 
 ## 📚 Table of Contents
 
+- 🎶 [Taylor Swift Spotify Data](https://github.com/hieucabo/Selfstudy-Project/tree/main/Data%20Cleaning/Taylor%20Swift%20Spotify%20Data)
