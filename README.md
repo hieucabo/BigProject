@@ -12,4 +12,4 @@ If you have any feedback or advice, please let me know 😃😃
 
 - [Data Cleaning](https://github.com/hieucabo/Selfstudy-Project/tree/main/Data%20Cleaning)
 - [Data Visualization](https://github.com/hieucabo/Selfstudy-Project/tree/main/Data%20Visualization)
-
+- [Project](https://github.com/hieucabo/Selfstudy-Project/tree/main/Serious%20Projects)
