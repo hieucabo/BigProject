@@ -14,7 +14,7 @@ There will be a time when I create the dashboard if you want to know my process.
 - 🎮 [Video Game Sales - 02/02/2023](#Video-Game-Sales)
 - 🏪 [Walmart Sales - 11/02/2023](#Walmart-Sales)
 - 🍕 [Pizza Place Sales - 23/02/2023](#Pizza-Place-Sales)
-
+- ⛷️ [Maven Slopes Challenge - Ski Resorts - 02/03/2023](#Maven-Slopes-Challenge-Ski-Resorts)
 ## 📊 My work
 
 ## Video Game Sales
