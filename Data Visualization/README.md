@@ -14,7 +14,7 @@ There will be a time when I create the dashboard if you want to know my process.
 - 🎮 [Video Game Sales - 02/02/2023](#Video-Game-Sales)
 - 🏪 [Walmart Sales - 11/02/2023](#Walmart-Sales)
 - 🍕 [Pizza Place Sales - 23/02/2023](#Pizza-Place-Sales)
-- ⛷️ [Maven Slopes Challenge - Ski Resorts - 02/03/2023](#Maven-Slopes-Challenge-Ski-Resorts)
+- ⛷️ [Maven Slopes Challenge Ski Resorts - 02/03/2023](#Maven-Slopes-Challenge-Ski-Resorts)
 ## 📊 My work
 
 ## Video Game Sales
@@ -58,7 +58,7 @@ However, the platform that had in the most game sales is Sony's, Play Station 2.
 - Brie Carre Pizza had the lowest sales, possibly due to limited size options compared to other pizzas.
 - The least number of pizzas were ordered at 9:00, 10:00, and 23:00. This data could be useful for optimizing store operations and reducing facility costs. Perhaps the store could open later or close earlier during these low-traffic hours.
 
-## Maven Slopes Challenge - Ski Resorts
+## Maven Slopes Challenge Ski Resorts
 
 - 📅 [Here is the dataset](https://github.com/hieucabo/Selfstudy-Project/tree/main/Serious%20Projects/Maven%20Slopes%20Challenge)
 
