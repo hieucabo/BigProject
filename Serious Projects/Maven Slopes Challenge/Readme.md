@@ -264,3 +264,14 @@ full_resort_month_snow <- rbind(resort_month_snow_unknown_select,resort_month_sn
 write.csv(full_resort_month_snow, file = 'Lat_Long_SeasonMonth.csv', row.names = F)
 ````
 
+## 📊 **Visualize**
+
+- Because this is an interactive dashboard, so I will put 2 images to show how differences between the original and the dashboard after the filter.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115451301/223053037-1dbbd9bc-b6a5-4cbf-900d-a43a47228aaf.png">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115451301/223053254-ea966532-29e7-437f-a5c1-9d7b53fb2e3e.png">
+</p>
