@@ -1,0 +1,2 @@
+- This is where I put my Python project, mostly in the jupyter lab file. 🌐
+- Only small projects here, big projects will be put on serious projects. 📊
