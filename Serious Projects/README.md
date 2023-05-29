@@ -1,4 +1,4 @@
-# 💪 Serious Projects
+# 💪 Big Projects
 
 Hi everyone! I'm excited to share with you my latest project on GitHub, where 
 I've been putting in a lot of hard work and effort. As someone who's interested in data analysis and data science, 
