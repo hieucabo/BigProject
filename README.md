@@ -1,4 +1,4 @@
-# 💪 Self-study Project
+# 💪 Big Project
 
 Hello 👋, 
 
